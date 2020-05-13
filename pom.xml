@@ -278,8 +278,8 @@
   </profiles>
 
   <properties>
-    <frontend.version>v3.3.0</frontend.version>
-    <frontend.groupId>com.github.cbioportal</frontend.groupId>
+    <frontend.version>141fa22e7f1e603c1ad6ca06ec98e5466954bef1</frontend.version>
+    <frontend.groupId>com.github.Unberath</frontend.groupId>
     <slf4j.version>1.6.6</slf4j.version>
     <spring.version>4.3.14.RELEASE</spring.version>
     <spring.context.support.version>4.3.14.RELEASE</spring.context.support.version>
